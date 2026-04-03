@@ -6,7 +6,7 @@
 Summary:	JavaScript is all like "You images done yet or what?" 
 Name:		jquery-%{plugin}
 Version:	3.0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://github.com/desandro/imagesloaded/archive/v%{version}/%{plugin}-%{version}.tar.gz
